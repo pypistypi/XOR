@@ -1,0 +1,14 @@
+build/
+*/build/
+test_in/
+test_out/
+test_out2/
+test_back/
+
+*.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.obj
+*.o
+*.exe
